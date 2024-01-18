@@ -3,7 +3,7 @@
 =====================================================================================
 
 # Dashboard
-The goal of this dashboard is to provide a analyse of the 911 Emergency calls of the Detroit's Police.
+The goal of this dashboard is to provide analysis of 911 Emergency calls of the Detroit's Police.
 With our data processing and analytics, we aim to offer insights and visualizations that can help understand patterns, trends, and critical information related to emergency incidents.
 
 
